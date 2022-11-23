@@ -1,10 +1,13 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 <div align="center">
   <div align="center">
 </br>
   <div align="center">
 </div>
 
-## Oioi! Eu sou Theresa Emanuelly ✨
+## Oioi, bem-vindo! ✨
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Theresa+Emanuelly;I'm+19+years+old;I'm+from+Brazil!+:%29)](https://git.io/typing-svg)
+  
 <img width="60%" src= "https://github-readme-stats.vercel.app/api?username=themanuelly&show_icons=true&theme=dracula&count_private=true"/>
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themanuelly&layout=compact&theme=dracula"/>
 <div style="display: inline_block"><br>
@@ -24,3 +27,5 @@
 </div>
 
 ##
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
