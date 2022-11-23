@@ -1,5 +1,11 @@
+<div align="center">
+  <div align="center">
+</br>
+  <div align="center">
+</div>
+
 ## Oioi! Eu sou Theresa Emanuelly ✨
-<img width="50%" src= "https://github-readme-stats.vercel.app/api?username=themanuelly&show_icons=true&theme=dracula&count_private=true"/>
+<img width="60%" src= "https://github-readme-stats.vercel.app/api?username=themanuelly&show_icons=true&theme=dracula&count_private=true"/>
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themanuelly&layout=compact&theme=dracula"/>
 <div style="display: inline_block"><br>
   <img align="center" alt="the-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -14,6 +20,7 @@
    <a href = "mailto:theresaemanuelly@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/theresaemanuelly" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-
- 
+![snake gif](https://github.com/themanuelly/themanuelly/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+##
