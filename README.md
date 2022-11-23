@@ -1,6 +1,6 @@
 ## Oioi! Eu sou Theresa Emanuelly ✨
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=themanuelly&show_icons=true&theme=dracula&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themanuelly&layout=compact&theme=dracula)](https://github.com/themanuelly&langs_count=8/github-readme-stats)
+<img width="45%" src= "https://github-readme-stats.vercel.app/api?username=themanuelly&show_icons=true&theme=dracula&count_private=true"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themanuelly&layout=compact&theme=dracula"/>
 <div style="display: inline_block"><br>
   <img align="center" alt="the-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="the-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
